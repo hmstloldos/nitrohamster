@@ -22,7 +22,7 @@ git clone https://github.com/hmstloldos/nitrohamster
 
 cd nitrohamster
 
-python hamsternitro.py
+python3 hamsternitro.py (windows python hamsternitro.py)
 
 --------------------------------------------------
 STATUS- Ready 🔥
