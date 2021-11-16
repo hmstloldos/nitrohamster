@@ -1,14 +1,24 @@
-#troGenerator By Hamster 🐣
-Email Spam By Hamster ☠️
+#NitroGenerator By Hamster 🐣
 
-Support: Linux And Termux 🔥
+NitroGenerator
 
-git clone https://github.com/hmstloldos/doshamster
+Support: Linux, Windows, Termux
 
-cd doshamster
+Needs? Python (https://www.python.org/)
 
-python hamsterhasddos.py
+--------------------------------------------------
+Tutorial For Windows- 
+1- Download Python
+2- Create A File And Import All Files For Python
+3- Now Run The Commands Down
+--------------------------------------------------
+git clone https://github.com/hmstloldos/nitrohamster
 
+cd nitrohamster
+
+python hamsternitro.py
+
+--------------------------------------------------
 STATUS- Ready 🔥
 
 -Hamster © 2021
