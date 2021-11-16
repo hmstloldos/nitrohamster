@@ -1,6 +1,6 @@
 #NitroGenerator By Hamster 🐣
 
-NitroGenerator
+☠️
 
 Support: Linux, Windows, Termux
 
