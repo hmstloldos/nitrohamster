@@ -1,0 +1,2 @@
+# nitrohamster
+NitroGenerator By Hamster 🐣
